@@ -11,8 +11,8 @@
 //      if second difference
 //          return false
 
-// N = max
-// Time: O(N)
+
+// Time: O(N) => loop once, until max
 // space: O(1);
 
 function oneAway(string1, string2){
